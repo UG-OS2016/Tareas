@@ -8,3 +8,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * Tarea 3.1: Investigar que tipos de Shell CLI existen y sus principales características. **(Fecha de entrega 15 de febrero de 2016)**
 * Tarea 3.2: Investigar las características de los principales Shells Gráficos. **(Fecha de entrega 15 de febrero de 2016)**
 * Tarea 4: Extraer 15 ideas del documental [THE CODE](https://www.youtube.com/watch?v=XMm0HsmOTFI). **(Fecha de entrega 18 de febrero de 2016)**
+* Tarea 5: Investigar que son variables de entorno.
