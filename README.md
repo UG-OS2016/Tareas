@@ -14,4 +14,5 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
   * FAT (32, 64)
   * EXT (2, 3, 4)
 * 6.2 Investigar que es fragmentación de disco. **(Fecha de entrega 07 de Marzo de 2016)**
-
+* 7.1 Investigar las funciones de los archivos .bashrc, .bash_profile, .bash_history, .bash_logout **(Fecha de entrega 17 de Marzo de 2016)**
+* 7.2 Investigar para que sirve el redireccionamiento a `/dev/null` **(Fecha de entrega 17 de Marzo de 2016)**
