@@ -18,3 +18,5 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * 7.2 Investigar para que sirve el redireccionamiento a `/dev/null` **(Fecha de entrega 17 de Marzo de 2016)**
 * 8 Investigar cual es la diferencia entre un API y un FRAMEWORK **(Fecha de entrega 7 de abril de 2016)**
 * 9 Investigar como colocar el icono a sublime text al ser instalado manualmente, se deberá enviar toma de pantalla como se comentó en clase **(Fecha de entrega 11 de abril de 2016)**
+* 10.1 Investigar para que sirven los comandos passwd, chown, adduser, useradd y groupadd **(Fecha de entrega 18 de abril de 2016)**
+* 10.2 Investigar la diferencia entre adduser y useradd **(Fecha de entrega 18 de abril de 2016)**
