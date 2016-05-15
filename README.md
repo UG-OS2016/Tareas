@@ -20,3 +20,21 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * 9 Investigar como colocar el icono a sublime text al ser instalado manualmente, se deberá enviar toma de pantalla como se comentó en clase **(Fecha de entrega 11 de abril de 2016)**
 * 10.1 Investigar para que sirven los comandos passwd, chown, adduser, useradd y groupadd **(Fecha de entrega 18 de abril de 2016)**
 * 10.2 Investigar la diferencia entre adduser y useradd **(Fecha de entrega 18 de abril de 2016)**
+* 11.1 investigar como funcionan las siguientes señales del comando kill: 
+    * HUP
+    * INT
+    * KILL
+    * TERM
+    * CONT
+    * STOP
+    * QUIT
+    * SEGV
+    * TSTP
+    * WINCH
+* 11.2 Investigar en que casos se utiliza el comando killall
+* 11.3 Investigar para que sirven los comandos:
+    * pstree
+    * vmstat
+    * tload
+* 12 Investigar cómo agregar repositorios en debian (basados) y en fedora.
+
