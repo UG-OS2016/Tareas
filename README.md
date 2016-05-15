@@ -36,5 +36,12 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
     * pstree
     * vmstat
     * tload
-* 12 Investigar cómo agregar repositorios en debian (basados) y en fedora.
+* 12 Investigar cómo agregar repositorios en debian (basados) y en fedora **(Fecha de entrega 23 de Mayo)**
+* 13 Investigar los siguientes comandos **(Fecha de entrega 26 de Mayo)**
+   * ping
+   * ifconfig
+   * netstat
+   * ftp
+   * wget
+   * ssh
 
